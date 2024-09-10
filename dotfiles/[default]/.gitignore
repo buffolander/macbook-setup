@@ -1,0 +1,16 @@
+# generic
+.vscode/
+.idea/
+
+.env
+
+# macOS
+.DS_Store
+
+# node.js
+node_modules
+
+# python
+__pycache__/
+*.pyc
+*.pyo
