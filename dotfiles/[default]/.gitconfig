@@ -1,0 +1,6 @@
+[user]
+    name  = Jon Doe
+    email = jdoe@company.work
+[core]
+    excludesfile = ~/.gitignore
+    autocrlf = input
